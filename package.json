@@ -1,0 +1,16 @@
+{
+  "name": "comp308-winter2019-lesson2c",
+  "version": "1.0.0",
+  "description": "Comp308 Winter 2019 Node Example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Simran",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  }
+}
